@@ -26,3 +26,12 @@ main {
 .offcanvas-top{
     height: fit-content;
 }
+
+li {
+    color: antiquewhite;
+}
+
+.infoMovie {
+    padding: 3%;
+    color: antiquewhite;
+}
