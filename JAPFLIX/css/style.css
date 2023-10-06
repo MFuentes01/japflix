@@ -35,3 +35,11 @@ li {
     padding: 3%;
     color: antiquewhite;
 }
+#divInfo{
+    color: antiquewhite;
+    margin: 10%;
+}
+.offcanvas-top{
+    background-color:antiquewhite ;
+    color: black;
+} 
